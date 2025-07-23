@@ -16,7 +16,7 @@ const Navigation = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors">
-              Brand
+              Desun Innovations
             </Link>
           </div>
           
